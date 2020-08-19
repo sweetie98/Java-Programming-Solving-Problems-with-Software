@@ -26,7 +26,7 @@ After completing this course you will be able to:
 
 
 ## Skills Gained
-Algorithms   Problem Solving    String (Computer Science)   Java Programming
+Algorithms,   Problem Solving,    String (Computer Science),   Java Programming
 
 ## Note:
 Codes run in a custom Bluej Java programming Development Environment made by Duke's University especially for this course. If you have already downloaded a version of BlueJ, you will need to uninstall and download [this one](https://www.dukelearntoprogram.com//downloads/bluej.php) to get the edu.duke library.
